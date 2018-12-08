@@ -6,8 +6,7 @@ int main(){
 
 
 	XInt i = XInt("1005.000");
-	XInt ix = XInt("1005.000.");
-	XInt ixx = XInt(".1005000");
+	XInt x = XInt("1000000000000");
 
 
 
